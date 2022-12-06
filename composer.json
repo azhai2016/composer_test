@@ -1,5 +1,5 @@
 {
-    "name": "bob/test",
+    "name": "bobzhai/test",
     "description": "this is test",
     "type": "project",
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Azhai\\Test\\": "src/Azhai/Test"
+            "BobZhai\\Test\\": "src/BobZhai/Test"
         }
     }
 }
