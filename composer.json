@@ -1,6 +1,6 @@
 {
-    "name": "bobzhai/test",
-    "description": "this is test",
+    "name": "bobfourbrother/cbpkg",
+    "description": "this is pkg",
     "type": "project",
     "license": "MIT",
     "authors": [
@@ -16,6 +16,12 @@
     "autoload": {
         "psr-4": {
             "BobZhai\\Test\\": "src/BobZhai/Test"
+        }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
         }
     }
 }
