@@ -1,5 +1,5 @@
 {
-    "name": "bobfourbrother/cbpkg",
+    "name": "azhai/cbpkg",
     "description": "this is pkg",
     "type": "project",
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "BobZhai\\Test\\": "src/BobZhai/Test"
+            "bobzhai\\test\\": "src/bobzhai/test"
         }
     },
     "repositories": {
