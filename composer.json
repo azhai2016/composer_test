@@ -1,5 +1,5 @@
 {
-    "name": "bobzhai/test",
+    "name": "bobzhai/cbsmspkg",
     "description": "this is pkg",
     "type": "library",
     "license": "MIT",
@@ -15,12 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "bobzhai\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "bobzhai\\test\\": "src/bobzhai/test"
+            "cbsms\\": "src/test"
         }
     }
 }
