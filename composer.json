@@ -22,11 +22,5 @@
         "psr-4": {
             "bobzhai\\test\\": "src/bobzhai/test"
         }
-    },
-    "repositories": {
-        "packagist": {
-            "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
-        }
     }
 }
